@@ -1,0 +1,72 @@
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.frmtimkiemsachtruyen.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.frmMain.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.Properties.Resources.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\bin\Debug\quan_ly_thu_vien.exe
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\bin\Debug\quan_ly_thu_vien.pdb
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.exe
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.pdb
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.frmtimkiemthuthu.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.frmbaocaosachchuatra.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.frmdangnhap.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\quan_ly_thu_vien\obj\Debug\quan_ly_thu_vien.frmNXB.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.Thủ_Thư.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmtimkiemsachtruyen.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmbaocaosachchuatra.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmdangnhap.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmMain.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmNXB.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmtimkiemthuthu.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.Properties.Resources.resources
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.exe
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\obj\Debug\quan_ly_thu_vien.pdb
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\bin\Debug\quan_ly_thu_vien.exe
+C:\Users\nguye\OneDrive\cslt2\btl cslt2\BTL CSLT\bin\Debug\quan_ly_thu_vien.pdb
+C:\Users\Laptop Asus\Downloads\quan_ly_thu_vien-main\quan_ly_thu_vien-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.AssemblyReference.cache
+C:\Users\Laptop Asus\Downloads\quan_ly_thu_vien-main\quan_ly_thu_vien-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.exe
+C:\Users\Laptop Asus\Downloads\quan_ly_thu_vien-main\quan_ly_thu_vien-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.pdb
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.exe
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.pdb
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\bin\Debug\quan_ly_thu_vien.exe
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\bin\Debug\quan_ly_thu_vien.pdb
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.HoSoTra.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.câu3.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.Thủ_Thư.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmbaocaosachchuatra.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmNXB.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmtimkiemthuthu.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.Properties.Resources.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmtimkiemsachtruyen.resources
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\BTL CSLT\obj\Debug\quan_ly_thu_vien.tímach.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.AssemblyReference.cache
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmbaocao7.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmDangNhap.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmHosotra.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmMain.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmSach.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.FrmTheMuon.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmbaocao9.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.HoSoTra.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmHosomuon.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.Thủ_Thư.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmbaocaosachchuatra.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmNXB.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmtimkiemthuthu.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.Properties.Resources.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.frmtimkiemsachtruyen.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.tímach.resources
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.GenerateResource.cache
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.CoreCompileInputs.cache
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.exe
+D:\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.pdb
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\code gộp\BTL_CSLT2_DLINH-main\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\code gộp\BTL_CSLT2_DLINH-main\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.exe
+C:\Users\nguye\OneDrive\cslt2\BTL CSLT\new code btl\code gộp\BTL_CSLT2_DLINH-main\B-I-T-P-L-N-CSLT-main\BTL CSLT\obj\Debug\quan_ly_thu_vien.pdb

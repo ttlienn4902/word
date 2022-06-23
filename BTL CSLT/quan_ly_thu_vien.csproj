@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D41E755A-132E-4CDB-BFD0-C81C6B586CDB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>quan_ly_thu_vien</RootNamespace>
+    <AssemblyName>quan_ly_thu_vien</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmbaocao7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbaocao7.Designer.cs">
+      <DependentUpon>frmbaocao7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHosotra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHosotra.Designer.cs">
+      <DependentUpon>frmHosotra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSach.Designer.cs">
+      <DependentUpon>frmSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbaocao9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbaocao9.Designer.cs">
+      <DependentUpon>frmbaocao9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoSoTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoSoTra.Designer.cs">
+      <DependentUpon>HoSoTra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHosomuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHosomuon.Designer.cs">
+      <DependentUpon>frmHosomuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTheMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTheMuon.Designer.cs">
+      <DependentUpon>FrmTheMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thủ Thư.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thủ Thư.Designer.cs">
+      <DependentUpon>Thủ Thư.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbaocaosach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbaocaosach.Designer.cs">
+      <DependentUpon>frmbaocaosach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNXB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNXB.Designer.cs">
+      <DependentUpon>frmNXB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmtimkiemthuthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtimkiemthuthu.Designer.cs">
+      <DependentUpon>frmtimkiemthuthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tìm kiếm sách truyện.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tìm kiếm sách truyện.Designer.cs">
+      <DependentUpon>Tìm kiếm sách truyện.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmbaocao7.resx">
+      <DependentUpon>frmbaocao7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHosotra.resx">
+      <DependentUpon>frmHosotra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSach.resx">
+      <DependentUpon>frmSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTheMuon.resx">
+      <DependentUpon>FrmTheMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbaocao9.resx">
+      <DependentUpon>frmbaocao9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoSoTra.resx">
+      <DependentUpon>HoSoTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHosomuon.resx">
+      <DependentUpon>frmHosomuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thủ Thư.resx">
+      <DependentUpon>Thủ Thư.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbaocaosach.resx">
+      <DependentUpon>frmbaocaosach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNXB.resx">
+      <DependentUpon>frmNXB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtimkiemthuthu.resx">
+      <DependentUpon>frmtimkiemthuthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Tìm kiếm sách truyện.resx">
+      <DependentUpon>Tìm kiếm sách truyện.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
